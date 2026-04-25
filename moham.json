@@ -1,0 +1,177 @@
+{
+  "totalFiles": 28,
+  "totalDuration": "01:33:17",
+  "icon": "https://cdn.jsdelivr.net/gh/isev01/icon@main/moham.jpg",
+  "sec_ar": "محمد خضر",
+  "sec_en": "Muhammad Khudr",
+  "files": [
+    {
+      "id": "01",
+      "ar": "أنا مصمم",
+      "en": "Ana musammim",
+      "duration": "04:57"
+    },
+    {
+      "id": "02",
+      "ar": "إشتقت لك",
+      "en": "Ishtaqtu lak",
+      "duration": "03:13"
+    },
+    {
+      "id": "03",
+      "ar": "إضحكي",
+      "en": "Idhaki",
+      "duration": "03:40"
+    },
+    {
+      "id": "04",
+      "ar": "الكوكب",
+      "en": "Al-kawkab",
+      "duration": "02:46"
+    },
+    {
+      "id": "05",
+      "ar": "الله على ذا الليل",
+      "en": "Allah ala dha al-layl",
+      "duration": "01:47"
+    },
+    {
+      "id": "06",
+      "ar": "المسافر",
+      "en": "Al-musafir",
+      "duration": "04:20"
+    },
+    {
+      "id": "07",
+      "ar": "النهاية واحدة",
+      "en": "Al-nihaya wahida",
+      "duration": "03:18"
+    },
+    {
+      "id": "08",
+      "ar": "تلمست لك عذر",
+      "en": "Talmasstu lak udhr",
+      "duration": "03:21"
+    },
+    {
+      "id": "09",
+      "ar": "تناديك",
+      "en": "Tunadik",
+      "duration": "02:55"
+    },
+    {
+      "id": "10",
+      "ar": "جفون معذبي",
+      "en": "Jufun mu'adhdhibi",
+      "duration": "03:16"
+    },
+    {
+      "id": "11",
+      "ar": "حاجة مستخبية",
+      "en": "Haja mustakhbiyya",
+      "duration": "04:20"
+    },
+    {
+      "id": "12",
+      "ar": "حسك وجودي",
+      "en": "Hassak wujudi",
+      "duration": "04:11"
+    },
+    {
+      "id": "13",
+      "ar": "خبروه",
+      "en": "Khabbaruhu",
+      "duration": "05:04"
+    },
+    {
+      "id": "14",
+      "ar": "خلينا سوا",
+      "en": "Khallina sawa",
+      "duration": "02:51"
+    },
+    {
+      "id": "15",
+      "ar": "رحلت",
+      "en": "Rahalt",
+      "duration": "01:13"
+    },
+    {
+      "id": "16",
+      "ar": "سقى الله",
+      "en": "Saqa Allah",
+      "duration": "04:15"
+    },
+    {
+      "id": "17",
+      "ar": "شيسوي",
+      "en": "Shaysawi",
+      "duration": "03:50"
+    },
+    {
+      "id": "18",
+      "ar": "عظيم احساسي",
+      "en": "Adhim ihsasi",
+      "duration": "03:35"
+    },
+    {
+      "id": "19",
+      "ar": "فين لياليك",
+      "en": "Fayn layalik",
+      "duration": "04:33"
+    },
+    {
+      "id": "20",
+      "ar": "فيني كثير",
+      "en": "Fiyyi kathir",
+      "duration": "03:22"
+    },
+    {
+      "id": "21",
+      "ar": "كل حاجه بينا",
+      "en": "Kull haga bayna",
+      "duration": "02:35"
+    },
+    {
+      "id": "22",
+      "ar": "للحين عايش",
+      "en": "Lilhin ayish",
+      "duration": "03:26"
+    },
+    {
+      "id": "23",
+      "ar": "لو علي",
+      "en": "Law alayy",
+      "duration": "00:38"
+    },
+    {
+      "id": "24",
+      "ar": "لوعتي",
+      "en": "Law'ati",
+      "duration": "03:08"
+    },
+    {
+      "id": "25",
+      "ar": "ما أرضى عليه",
+      "en": "Ma arda alayh",
+      "duration": "03:26"
+    },
+    {
+      "id": "26",
+      "ar": "ولهان",
+      "en": "Walhan",
+      "duration": "04:32"
+    },
+    {
+      "id": "27",
+      "ar": "ومستغرب",
+      "en": "Wa mustaghrib",
+      "duration": "00:55"
+    },
+    {
+      "id": "28",
+      "ar": "ياستار",
+      "en": "Ya sittar",
+      "duration": "03:50"
+    }
+  ]
+}
